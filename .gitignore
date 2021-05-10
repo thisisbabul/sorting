@@ -1,0 +1,10 @@
+.gradle
+.idea/
+!.idea/icon*.png
+*.iml
+*.xml
+*.class
+build/
+src/main/gen
+src/main/resources/templates.list
+src/main/resources/gitignore/*
